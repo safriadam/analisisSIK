@@ -1,0 +1,30 @@
+Anggaran
+– Input data anggaran
+– Tampil data anggaran
+– Edit data anggaran
+– Hapus data anggaran
+
+Realisasi
+– Input data realisasi
+– Daftar data realisasi
+– Edit data realisasi
+– Hapus data realisasi
+
+Penerimaan
+– Input data penerimaan
+– Daftar data penerimaan
+– Edit data penerimaan
+– Hapus data penerimaan
+
+Laporan
+– Laporan anggaran
+– Laporan realisasi
+– Laporan penerimaan
+– Laporan laba rugi
+
+Admin
+– Input data referensi, akun, user, hak akses
+– Daftar data referensi, akun, user, hak akses
+– Edit data referensi, akun, user, hak akses
+– Hapus data referensi, akun, user, hak akses
+– Ganti Password
